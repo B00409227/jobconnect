@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jobconnect/static/css/main.61abb4fb.css",
+    "main.js": "/jobconnect/static/js/main.6ce511d6.js",
+    "static/js/453.cc2d69e9.chunk.js": "/jobconnect/static/js/453.cc2d69e9.chunk.js",
+    "index.html": "/jobconnect/index.html",
+    "main.61abb4fb.css.map": "/jobconnect/static/css/main.61abb4fb.css.map",
+    "main.6ce511d6.js.map": "/jobconnect/static/js/main.6ce511d6.js.map",
+    "453.cc2d69e9.chunk.js.map": "/jobconnect/static/js/453.cc2d69e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61abb4fb.css",
+    "static/js/main.6ce511d6.js"
+  ]
+}
